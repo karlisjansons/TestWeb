@@ -1,11 +1,18 @@
 body {
-    background-color: #ccffcc;
-     color: darkcyan;
-  margin-left: 20px;
+    background-image: url("snowflakes-5781082_960_720.jpg");
 }
-
+li{
+    color: black;
+    margin-left: 10px;
+}
 h2 {
   color: navy;
   margin-left: 25px;
   padding:15px;
+}
+p{
+    color: darkblue;
+}
+th{
+    color: navy;
 }
